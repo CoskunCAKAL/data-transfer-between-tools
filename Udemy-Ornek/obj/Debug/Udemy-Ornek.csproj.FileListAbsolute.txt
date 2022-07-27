@@ -1,0 +1,21 @@
+C:\Users\cosku\source\repos\Udemy-Ornek\Udemy-Ornek\bin\Debug\Udemy-Ornek.exe.config
+C:\Users\cosku\source\repos\Udemy-Ornek\Udemy-Ornek\bin\Debug\Udemy-Ornek.exe
+C:\Users\cosku\source\repos\Udemy-Ornek\Udemy-Ornek\bin\Debug\Udemy-Ornek.pdb
+C:\Users\cosku\source\repos\Udemy-Ornek\Udemy-Ornek\obj\Debug\Udemy-Ornek.csproj.AssemblyReference.cache
+C:\Users\cosku\source\repos\Udemy-Ornek\Udemy-Ornek\obj\Debug\Udemy-Ornek.csproj.SuggestedBindingRedirects.cache
+C:\Users\cosku\source\repos\Udemy-Ornek\Udemy-Ornek\obj\Debug\Udemy_Ornek.Form1.resources
+C:\Users\cosku\source\repos\Udemy-Ornek\Udemy-Ornek\obj\Debug\Udemy_Ornek.Properties.Resources.resources
+C:\Users\cosku\source\repos\Udemy-Ornek\Udemy-Ornek\obj\Debug\Udemy-Ornek.csproj.GenerateResource.cache
+C:\Users\cosku\source\repos\Udemy-Ornek\Udemy-Ornek\obj\Debug\Udemy-Ornek.csproj.CoreCompileInputs.cache
+C:\Users\cosku\source\repos\Udemy-Ornek\Udemy-Ornek\obj\Debug\Udemy-Ornek.exe
+C:\Users\cosku\source\repos\Udemy-Ornek\Udemy-Ornek\obj\Debug\Udemy-Ornek.pdb
+D:\UDEMY\C# A'DAN Z'YE\Udemy-Ornek-1\Udemy-Ornek\bin\Debug\Udemy-Ornek.exe.config
+D:\UDEMY\C# A'DAN Z'YE\Udemy-Ornek-1\Udemy-Ornek\bin\Debug\Udemy-Ornek.exe
+D:\UDEMY\C# A'DAN Z'YE\Udemy-Ornek-1\Udemy-Ornek\bin\Debug\Udemy-Ornek.pdb
+D:\UDEMY\C# A'DAN Z'YE\Udemy-Ornek-1\Udemy-Ornek\obj\Debug\Udemy-Ornek.csproj.AssemblyReference.cache
+D:\UDEMY\C# A'DAN Z'YE\Udemy-Ornek-1\Udemy-Ornek\obj\Debug\Udemy_Ornek.Form1.resources
+D:\UDEMY\C# A'DAN Z'YE\Udemy-Ornek-1\Udemy-Ornek\obj\Debug\Udemy_Ornek.Properties.Resources.resources
+D:\UDEMY\C# A'DAN Z'YE\Udemy-Ornek-1\Udemy-Ornek\obj\Debug\Udemy-Ornek.csproj.GenerateResource.cache
+D:\UDEMY\C# A'DAN Z'YE\Udemy-Ornek-1\Udemy-Ornek\obj\Debug\Udemy-Ornek.csproj.CoreCompileInputs.cache
+D:\UDEMY\C# A'DAN Z'YE\Udemy-Ornek-1\Udemy-Ornek\obj\Debug\Udemy-Ornek.exe
+D:\UDEMY\C# A'DAN Z'YE\Udemy-Ornek-1\Udemy-Ornek\obj\Debug\Udemy-Ornek.pdb
